@@ -5,6 +5,7 @@
 [![license](https://img.shields.io/github/license/KusionStack/kusionup.svg)](https://github.com/KusionStack/kusionup/blob/main/LICENSE)
 [![Go Reference](https://pkg.go.dev/badge/github.com/KusionStack/kusionup.svg)](https://pkg.go.dev/github.com/KusionStack/kusionup)
 [![Coverage Status](https://coveralls.io/repos/github/KusionStack/kusionup/badge.svg)](https://coveralls.io/github/KusionStack/kusionup)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FKusionStack%2Fkusionup.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FKusionStack%2Fkusionup?ref=badge_shield)
 
 > 💡 `kusionup` is a version management tool for [kusion](https://github.com/KusionStack/kusion). It is heavily inspired by [goup](https://github.com/owenthereal/goup).
 
@@ -117,3 +118,7 @@ For details, please refer to the [documentation](https://kusionstack.io/docs/use
 ## 🙏 Thanks
 
 * [goup](https://github.com/owenthereal/goup) - Elegant Go installer
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FKusionStack%2Fkusionup.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FKusionStack%2Fkusionup?ref=badge_large)
